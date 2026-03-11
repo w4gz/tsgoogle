@@ -4,4 +4,5 @@
 [duck](https://duckduckgo.com)
 [youtube](https://youtube.com)
 [google](https://www.google.com)
+[claude](https://claude.ai)
 
